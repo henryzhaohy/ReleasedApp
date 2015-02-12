@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Sugar
+
+  Created by HANYU ZHAO on 2015-01-23.
+  Copyright (c) 2015 HANYU ZHAO. All rights reserved.
+*/
+
+"Question1" = "什么是血糖？";
+"Question2" = "正常的血糖值范围";
+"Question3" = "高血糖的范围";
+"Question4" = "低血糖的范围";
+"Question5" = "怎样检测血糖值?";
+"Question6" = "如果得了糖尿病会有什么症状?";
+"Question7" = "糖尿病可以被治愈吗?";
+"Question8" = "怎样降低血糖值?";
+"Question9" = "低血糖的症状";
+"Question10" = "怎样对待低血糖?";
+"answer%d" = "answer%dch";
+
+"Input Error" = "输入错误";
+"The information you input is wrong format, please check!" = "您输入的信息有误，请检查！";
+"OK" = "确定";
+
+"Before Breakfast" = "早餐饭前";
+"After Breakfast" = "早餐饭后";
+"Before Lunch" = "午餐饭前";
+"After Lunch" = "午餐饭后";
+"Before Dinner" = "晚餐饭前";
+"After Dinner" = "晚餐饭后";

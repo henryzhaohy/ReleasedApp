@@ -1,0 +1,33 @@
+
+/* Class = "IBUILabel"; text = "Date"; ObjectID = "9Gu-KN-2pR"; */
+"9Gu-KN-2pR.text" = "日期";
+
+/* Class = "IBUINavigationItem"; title = "Sugar"; ObjectID = "BNE-P0-qjk"; */
+"BNE-P0-qjk.title" = "血糖";
+
+/* Class = "IBUINavigationItem"; title = "Monitor Your Sugar"; ObjectID = "DqD-S8-l8B"; */
+"DqD-S8-l8B.title" = "监测你的血糖";
+
+/* Class = "IBUINavigationItem"; title = "Blood Sugar Tips"; ObjectID = "ImL-hF-U2V"; */
+"ImL-hF-U2V.title" = "血糖常见问题";
+
+/* Class = "IBUITextField"; placeholder = "When"; ObjectID = "LMf-NG-5HE"; */
+"LMf-NG-5HE.placeholder" = "时间";
+
+/* Class = "IBUILabel"; text = "Value"; ObjectID = "Slp-cQ-3P9"; */
+"Slp-cQ-3P9.text" = "数值";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Yqd-M1-XFy"; */
+"Yqd-M1-XFy.text" = "标题";
+
+/* Class = "IBUITextField"; placeholder = "BG (mmol/L) "; ObjectID = "ezT-Jn-ckc"; */
+"ezT-Jn-ckc.placeholder" = "BG (mmol/L) ";
+
+/* Class = "IBUITextField"; placeholder = "Date"; ObjectID = "i17-YP-c9M"; */
+"i17-YP-c9M.placeholder" = "日期";
+
+/* Class = "IBUILabel"; text = " range 0.1~ 99.9"; ObjectID = "pTj-zw-gEA"; */
+"pTj-zw-gEA.text" = " 范围 0.1~ 99.9";
+
+/* Class = "IBUILabel"; text = "When"; ObjectID = "ybx-dp-Vel"; */
+"ybx-dp-Vel.text" = "时间";

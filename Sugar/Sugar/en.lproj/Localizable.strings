@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Sugar
+
+  Created by HANYU ZHAO on 2015-01-23.
+  Copyright (c) 2015 HANYU ZHAO. All rights reserved.
+*/
+
+"Question1" = "What is blood sugar?";
+"Question2" = "Normal blood sugar levels";
+"Question3" = "High blood sugar levels";
+"Question4" = "Low blood sugar levels";
+"Question5" = "How to check blood sugar?";
+"Question6" = "What happens in diabetes?";
+"Question7" = "Can diabetes be cured?";
+"Question8" = "How to lower blood sugar level?";
+"Question9" = "symptoms of low blood sugar";
+"Question10" = "How to treat low blood sugar?";
+"answer%d" = "answer%d";
+
+"Input Error" = "Input Error";
+"The information you input is wrong format, please check!" = "The information you input is wrong format, please check!";
+"OK" = "OK";
+
+"Before Breakfast" = "Before Breakfast";
+"After Breakfast" = "After Breakfast";
+"Before Lunch" = "Before Lunch";
+"After Lunch" = "After Lunch";
+"Before Dinner" = "Before Dinner";
+"After Dinner" = "After Dinner";
